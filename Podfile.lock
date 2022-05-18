@@ -1,0 +1,16 @@
+PODS:
+  - Qualtrics (2.5.0)
+
+DEPENDENCIES:
+  - Qualtrics
+
+SPEC REPOS:
+  trunk:
+    - Qualtrics
+
+SPEC CHECKSUMS:
+  Qualtrics: a9196a9ba2bcb25180fdaa5c9029ba870da28494
+
+PODFILE CHECKSUM: 4698243ec1b405fdc5f6920b30cef3c3aed75e5a
+
+COCOAPODS: 1.11.3
